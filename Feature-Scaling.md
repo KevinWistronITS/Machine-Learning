@@ -1,6 +1,6 @@
 1. Normalization
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/30df0c9b-1a7d-43eb-8494-a96418a7953a/Untitled.png)
+    ![Normalization](/pic/Normalization.png)
     
 - Your value should be between 0 and 1.
     
@@ -8,7 +8,7 @@
     
 1. Standardization
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/501f9335-3ea5-4a78-8f58-2a9a485d1c59/Untitled.png)
+    ![Standardization](/pic/Standardization.png)
     
 - Your value should be between 3 and -3.
     
