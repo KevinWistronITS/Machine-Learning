@@ -26,4 +26,6 @@ However, we are not going to teach R/Python in this course.
 
 2. [R-CRAN](https://cran.r-project.org/) and [RStudio](https://posit.co/download/rstudio-desktop/)
 
-[Feature Scaling](/Day-1/Day1-Feature-Scaling.md)
+### Course Outline:
+- [Feature Scaling](/Day-1/Day1-Feature-Scaling.md)
+- [Data Preprocessing](/Day-1/Day1-Data-Preprocessing.md)

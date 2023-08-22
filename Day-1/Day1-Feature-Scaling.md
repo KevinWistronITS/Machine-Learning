@@ -32,3 +32,7 @@ After normalization:
 | A | 1 | 1 |
 | B | 0.44 | 0.8 |
 | C | 0 | 0 |
+
+---
+Next &rarr; [Data Preprocessing](/Day-1/Day1-Data-Preprocessing.md)
+Previous &larr; [Machine Learning](/Day-1/Machine-Learning.md)
