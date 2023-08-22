@@ -1,20 +1,22 @@
+# Feature Scaling
+
+### Prerequisite
+N/A
+
+### Feature Scaling Type
+
 1. Normalization
     
     ![Normalization](/pic/Normalization.png)
     
-- Your value should be between 0 and 1.
-    
-    [0;1]
+> Your value should be between 0 and 1. `[0;1]`
     
 1. Standardization
     
     ![Standardization](/pic/Standardization.png)
     
-- Your value should be between 3 and -3.
+> Your value should be between 3 and -3. `[-3;3]`
     
-    [-3;3]
-    
-
 For example,
 
 |  | Salary (USD) | Age (yrs) |
