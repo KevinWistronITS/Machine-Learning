@@ -11,4 +11,5 @@ In this section, you can download the following material, and use the language t
 
 ---
 Next &rarr; []()
-Previous &larr; [Data Preprocessing](/Day-1/Day1-Data-Preprocessing.md)
+\
+Previous &larr; [Feature Scaling](/Day-1/Day1-Feature-Scaling.md)
